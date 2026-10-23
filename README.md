@@ -2,7 +2,7 @@
 
 <p align="center">⚠️ For Educational Purposes Only</p>
 
----
+---4442050245
 
 # 📞 PhoneXtract - Number Intelligence Tool
 
@@ -39,7 +39,7 @@ PhoneXtract supports phone numbers from **all countries around the world** using
 | Region | Examples |
 |--------|---------|
 | 🇮🇳 South Asia | India, Pakistan, Bangladesh, Nepal, Sri Lanka |
-| 🇺🇸 North America | USA, Canada, Mexico |
+| 🇺🇸 North America | USA, Canada, México |
 | 🇬🇧 Europe | UK, Germany, France, Italy, Spain, Russia |
 | 🇦🇪 Middle East | UAE, Saudi Arabia, Qatar, Kuwait |
 | 🇨🇳 East Asia | China, Japan, South Korea |
@@ -48,7 +48,7 @@ PhoneXtract supports phone numbers from **all countries around the world** using
 | 🇦🇺 Oceania | Australia, New Zealand |
 
 > ✅ **Always use the full international format with country code.**
-> Example: `+14155552671` (USA), `+447911123456` (UK), `+919876543210` (India)
+> Example: "+14442050245"(USA), `+447911123456` (UK), `+919876543210` (India)
 
 ---
 
